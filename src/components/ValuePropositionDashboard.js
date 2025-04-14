@@ -229,6 +229,7 @@ const ValuePropositionDashboard = () => {
             </LineChart>
           </ResponsiveContainer>
           <p className="text-sm text-gray-600 mt-4 font-medium">Break-even in Month 5, with continuous ROI growth afterward.</p>
+          <p className="text-xs text-gray-500 mt-2 italic">* ROI calculations are speculative/illustrative rather than definitive.</p>
         </div>
       </div>
 
