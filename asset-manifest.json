@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/synthiq-value-prop/static/css/main.01c45356.css",
+    "main.js": "/synthiq-value-prop/static/js/main.1f99fb72.js",
+    "static/js/453.53433b2a.chunk.js": "/synthiq-value-prop/static/js/453.53433b2a.chunk.js",
+    "index.html": "/synthiq-value-prop/index.html",
+    "main.01c45356.css.map": "/synthiq-value-prop/static/css/main.01c45356.css.map",
+    "main.1f99fb72.js.map": "/synthiq-value-prop/static/js/main.1f99fb72.js.map",
+    "453.53433b2a.chunk.js.map": "/synthiq-value-prop/static/js/453.53433b2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01c45356.css",
+    "static/js/main.1f99fb72.js"
+  ]
+}
